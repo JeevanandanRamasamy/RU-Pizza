@@ -41,7 +41,7 @@
 3. **Run the Application**:  
    Launch the program using the following command:
    ```bash
-   java Main
+   java RUPizzaMain
    ```
    Ensure that all required files (e.g., resources or configurations) are in the same directory as the compiled code.
 
